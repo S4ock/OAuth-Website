@@ -8,10 +8,6 @@ This project demonstrates how to implement authentication in a Flask web applica
 - **Twitter and Facebook OAuth (Coming soon)**: In progress for additional OAuth providers.
 - **Custom Styled Login Page**: Simple, responsive UI with a custom background and hover effects.
 - **Flask Framework**: Powered by Flask, a lightweight Python web framework.
-  
-## Demo
-
-![Screenshot](screenshot.png) 
 
 ## Getting Started
 
